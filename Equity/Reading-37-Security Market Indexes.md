@@ -1,3 +1,5 @@
+# Security Market Indexes
+
 ## Objective
 * describe
     * security market index
@@ -14,17 +16,17 @@
 * inception: 起始、开端 最初发售的时刻
 * constituent securities 成分股
 * [Compare outstanding shares vs. treasure shares vs. issued shares vs. listed shares](https://zhuanlan.zhihu.com/p/31841811)
-* outstanding shares: 发行在外 包括了员工持股计划中还没有授予的部分 暂时还不能进行公开交易
-* treasure shares: 库存股 公司回购的还没有注销的股票
-* issued shares: 已发行股份 = outstanding shares + treasure shares 
-* listed shares == shares available to the investing public: 可以在市场上流通公开交易的部分
-* (value tilt)[https://www.bogleheads.org/wiki/Value_tilting_-_stock]: 向价值股倾斜 
+   * outstanding shares: 发行在外 包括了员工持股计划中还没有授予的部分 暂时还不能进行公开交易
+   * treasure shares: 库存股 公司回购的还没有注销的股票
+   * issued shares: 已发行股份 = outstanding shares + treasure shares 
+   * listed shares == shares available to the investing public: 可以在市场上流通公开交易的部分
+* [value tilt](https://www.bogleheads.org/wiki/Value_tilting_-_stock): 向价值股倾斜 
 * appraisal: 房产估价
 ## Note
 
 ### Index Definition and calculations of value and returns
-样本 -> 整体市场的推断 
-A security market index represents a given security market, market segment, or asset class. Most indexes are constructed as portfolios of marketable securities.
+* 样本 -> 整体市场的推断 
+* A security market index represents a given security market, market segment, or asset class. Most indexes are constructed as portfolios of marketable securities.
 
 ### Index Construction
 * Steps
