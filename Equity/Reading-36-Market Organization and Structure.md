@@ -66,7 +66,7 @@
     * secondary market: sales of securities
 
 #### Classification of Markets 
-* Money vs. Capital markets(based on liquidity  **无风险**变现的能力)
+* Money vs. Capital markets(based on liquidity  **无**风险变现的能力)
     * Money: short-term debt
     * Capital: 其他所有 
 * Traditional vs. Alternative markets (根据交易物的类型)
