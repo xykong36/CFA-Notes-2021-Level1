@@ -229,7 +229,7 @@
   * validity instruction: when an order can be filled, e.g. day orders, good till canceled orders, stop orders.  
   * execution instructions specify how to trade. e.g. market order, limit order
   * clearing instructions specify how to settle a trade: 确定由哪个entity来处理这个order
- * Q26:
+* Q26:
   * take the market: 直接出到最好的市场价 125买入 出价125
   * make the market: 低于当前最好的市场价 125买入 你出价124,暂时是买不到的
   * make a new market: 高于当前最好的市场价 125买入价，你出价126 直接买了
