@@ -14,7 +14,7 @@
 
 ## Update Log
 * 2.3 Equity R39
-* 2.4 Equity R40 + R41
-* 2.5 Corporate Finance R31 R32
-* 2.6 Corporate Finance R33 R34 R35
+* 2.5 Equity R40
+* 2.6 Equity R41 Corporate Finance R31 R32 R33 R34 R35
 * 2.7 Derivative R48 R49 + Alternative R50 + Portfolio R51 R52
+* 2.8 Fixed Income
