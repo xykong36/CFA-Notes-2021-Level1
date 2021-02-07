@@ -1,5 +1,7 @@
 
-# Introduction to Corporate Governance and Other ESG Considerations.md
+# Introduction to Corporate Governance and Other ESG Considerations
+
+### [B站讲解视频](https://www.bilibili.com/video/BV1Yf4y1R7Tw/)
 
 ## Objective
 * **Describe**
