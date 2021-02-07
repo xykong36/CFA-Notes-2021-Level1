@@ -18,3 +18,8 @@
 * 2.6 Equity R41 Corporate Finance R31 R32 R33 R34 R35
 * 2.7 Derivative R48 R49 + Alternative R50 + Portfolio R51 R52
 * 2.8 Fixed Income
+
+## Daily Update
+* 2.6 
+  * 还有13天考试 今天又重新计算了一下，感觉时间有点紧张，需要调整策略，先将所有的Reading的必考重点内容进行整理，保证80%的题目都见过，然后直接做题来检验效果，同时补充细节的知识点
+  * 添加CFA官网课后题标记 和 B站视频链接
