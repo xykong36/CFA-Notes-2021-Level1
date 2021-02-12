@@ -116,11 +116,48 @@
     * write-off/liquidation
 
 ### Real estate
+* Forms
+* Performance measure
+  * Appraisal index(估价指数)
+    * understate volatility
+  * Repeat sales index
+    * sample selection bias
+  * REIT indices
+* Valuation
+  * Comparable sales approach
+  * Income approach
+  * Cost approach
+
 
 ### Commodities
-* Investment vehicles
-### Infrastructure
+* Forms
+* Potential benefits and risks
+  * 
+* Pricing
+  * convenience yield: have physical commodity available for use
+  * contango: future > spot
+  * backwardation: future < spot
+* Sources of return
+  * roll yield: spot price - future contract price
+  * collateral yield: interest earned on the collateral
+  * spot prices: 
+
+### Infrastructure 
+* Definition: real, capital intensive, long-lived assets, which are intended for public use and provide essential services
 * brownfield / greenfield investments 
-* 
+* Invest directly / Indirect investment vehicles
 
 ## 课后练习
+
+
+## 知识点题目
+* real estate investment vehicle ??
+* return earned on margin ?
+* A measure to analyzing the performance of alternative investments that may exhibit negative skewness(什么意思?) in returns is Sortino ratio
+* alternative + traditional -> high return + low risk 因为correlation比较低 风险小一些
+* independently 计算management fee 和 incentive fee互相不影响 全部按照end of year value来算就行了
+* PE management fees 的计算基数是 total committed capital minus capital returned from investments that are exited
+* PE的流动性较差 钱投进去之后短期内没法退出了
+* seed-stage 融资主要用来 product development and/or marketing efforts
+* real estate 没办法homogeneity 因为每个房子都不一样
+* direct capitalization approach 用net operating income 折现
