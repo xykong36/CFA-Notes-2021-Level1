@@ -1,6 +1,7 @@
 # [重点]Cost of Capital
 
-:white_check_mark: CFA官网课后题
+* :white_check_mark: CFA官网课后题
+* 课本练习题
 
 
 ## Objective

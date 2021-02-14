@@ -1,6 +1,7 @@
-# [Draft]Working Capital Management
+# Working Capital Management
 
 ## 和财报R24 Financial Analysis Techniques 重叠
+
 
 * Working Capital = Current Asset - Current Liability
 
