@@ -34,3 +34,15 @@
 
 ### 课后练习
 * Q4: business risk = sales risk + operating risk 所有影响到销量的因素都属于business risk
+
+### Q&A
+Q: Operating Breakeven 和 Breakeven point 的关系是什么?
+A: OBE 只考虑了固定成本 不考虑借贷成本
+
+Q: sales risk 看哪个指标? 只看operating leverage可以吗？ 
+A: operating risk 看operating leverage. sales risk 是看sales相关的factor
+
+Q: 为什么要计算total leverage？
+A: EPS 就是 Net Income DOL * DFL  
+
+怎么理解 DOL is highest at low level of sales 和 the further a firm's sales are from its breakeven level of sales, the greater the magnifying effects of leverage on net income 
