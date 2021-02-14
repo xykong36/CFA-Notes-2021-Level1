@@ -5,12 +5,12 @@
 * Quantitative Methods
 * Economics
 * Financial Reporting and Analysis
-* [Corporate Finance](https://github.com/auguskong/CFA-Notes/tree/master/Corporate-Finance)
+* :white_check_mark: [Corporate Finance](https://github.com/auguskong/CFA-Notes/tree/master/Corporate-Finance)
 * :hammer_and_wrench: [Portfolio Management](https://github.com/auguskong/CFA-Notes/tree/master/Portfolio-Management)
-* [Equity Investments](https://github.com/auguskong/CFA-Notes/tree/master/Equity)
+* :white_check_mark: [Equity Investments](https://github.com/auguskong/CFA-Notes/tree/master/Equity)
 * :hammer_and_wrench: [Fixed Income Investments](https://github.com/auguskong/CFA-Notes/tree/master/Fixed-Income)
 * :hammer_and_wrench: [Derivative Investmetns](https://github.com/auguskong/CFA-Notes/tree/master/Derivative)
-* [Alternative Investments](https://github.com/auguskong/CFA-Notes/tree/master/Alternative)
+* :white_check_mark: [Alternative Investments](https://github.com/auguskong/CFA-Notes/tree/master/Alternative)
 
 ## Update Log
 * 2.3 Equity R39
