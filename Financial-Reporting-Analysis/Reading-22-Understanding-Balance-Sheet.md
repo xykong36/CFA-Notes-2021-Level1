@@ -206,3 +206,8 @@ Tax payable 和 Deferred tax balance的区别是什么? Tax payable 是需要交
 Deferred 是由于扣税的收入 和 report的收入不一致 导致的 
 
 Tax 
+
+## 课后练习
+Q13: IFRS: inventories are carried at historical cost, unless net realizable value of the inventory is less. Under US GAAP, inventories are carried at the lower of cost or market. 
+Q15: Accrued liabilities 是啥?  have been reported on I/S, but not yet been paid? 
+Q24. 答案里treasury stock is an offset to owner's equity 如何理解offset ? 

@@ -58,6 +58,19 @@ increase the retained earnings component of shareholders' equity by the LIFO res
 LIFO liquidation 是干嘛的
 
 
+LIFO -> FIFO 转换  出现了reserve -> COGS(I/S)减少 -> inventory(B/S) 增加 -> current asset(B/S)增加 -> current ratio = current asset / current liability -> inventory turnover = COGS / Average inventory (两年的平均值) 下降 ->  reserve 增大 
+
+LIFO reserve 使用 注意需要计算增量 FIFO = LIFO - LIFO reserve increase 课后题 Q9
+
+COGS 是卖掉的库存 Inventory是留下的库存 
+LIFO reserve是Inventory的差值
+
+price increasing 影响哪些变量? 和存货相关的所有variable都有什么? COGS(LIFO) FIFO inventory 增加 -> current asset增加 -> current ratio = current asset / current liability -> inventory turnover = COGS / Average inventory (两年的平均值) 下降 ->  reserve 增大 
+
+reserve增大的条件: 价格增加 
+
+
+
 ## Inventory Recognition
 - Expense 
 

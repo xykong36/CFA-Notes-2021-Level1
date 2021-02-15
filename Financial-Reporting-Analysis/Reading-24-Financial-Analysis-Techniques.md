@@ -80,3 +80,4 @@ Turnover: 是次数的概念  表现efficiency
 365 / Turnover = 每一次的天数 
 
 Average: (DSO 年末 + DSO 年初) / 2 = 
+
