@@ -20,14 +20,11 @@ direct and indirect methods of presenting cash from operating activities and des
 ## 基础词汇/概念
 
 ## Notes
-
 Indirect Method 和 Direct Method的本质区别是什么? 
 
 Direct Method是每一笔都列出来? presents the firm's operating cash receipts and payments,  -> 优点: 更具体的数据
 
-
 Direct: 一收入四支出 简单 直观
-
 收入: 
 * Customer 
 支出:

@@ -33,19 +33,9 @@
   * number of days of inventory
   * number of days of payables
   * oprating cycle = number of days of receivables + number of days of inventory
-  * cash conversion cycle = number of days of receivables + number of days of inventory - number of days of payable
+  * cash conversion cycle(net operating cycle) = number of days of receivables + number of days of inventory - number of days of payable
 
-Receivable turnover vs. Number of days of receivables
-Inventory turnover  vs. Number of days of inventory 
-Payables turnover vs. Number of days of payables  == 365 / payables turnover
-
-average inventory =  begin + end / 2 
-
-Operating Cycle = days of inventory + days of receivables
-
-Net Operating Cycle 就是 Cash Conversion Cycle
-discount basis yield, money market yield, bond equivalent yield怎么理解区别？- 之后再讨论
-bond equivalent yield 计算剩余价值? 
+* average inventory =  begin + end / 2 
 
 ### trade discounts cost
 * 术语 2/10, net 30 

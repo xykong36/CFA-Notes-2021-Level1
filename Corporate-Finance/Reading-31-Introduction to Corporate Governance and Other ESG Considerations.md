@@ -18,8 +18,8 @@
 
 ## 基础词汇/概念
 
-* negative screening
-* Thematic investing
+* negative screening(负面清单)
+* thematic investing(追热度)
 * shareholder: 股东
 * stakeholder: 利益相关人
 * multiple-class structure 

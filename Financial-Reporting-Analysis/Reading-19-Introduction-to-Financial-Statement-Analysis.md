@@ -1,21 +1,19 @@
 # Introduction to Financial Statement Analysiso
 
 ## Objective
-* roles of financial reporting and financial statement analysis
-* roles of statement of financial position, statement of comprehensive income, statement of cash flows and statement of changes in equity in evaluating a company's performance and financial position
-* financial statement notes and supplementary information
-* objective of audits of financial statements, types of audit reports
-* identify and describe information sources that analysts use
-* steps in financial statement analysis framework
 
-* **Define**
-    * simple random sampling and a sampling distribution
+* **Describe/Explain/Define**
+  * roles of financial reporting and financial statement analysis
+  * roles of statement of financial position, statement of comprehensive income, statement of cash flows and statement of changes in equity in evaluating a company's performance and financial position
+  * financial statement notes and supplementary information
+  * objective of audits of financial statements, types of audit reports
+  * identify and describe information sources that analysts use
+  * steps in financial statement analysis framework
+  * simple random sampling and a sampling distribution
+  
 * **Calculate/Construct**
     * confidence interval for a population mean, given a normal distribution with known population variance/unknown population variance/unknown population variance + large sample size
     * the standard error of the sample mean
-* **Describe/Explain/Interpret/Distinguish** 
-
-## 基础词汇/概念
 
 ## Notes 
 
@@ -25,7 +23,6 @@
     - financial position 
     - changes in financial position 
 - 分析目的: make better economic decisions
-
 * general requirements
   * general
     * consistency
@@ -38,18 +35,16 @@
     * understandability
 
 ### Financial Statement 
-- B/S
-- comprehensive income statement
-- cash flow statement
-- statement of changes in equity
-- Notes/Footnotes 
+* B/S
+* I/S
+* cash flow statement
+* comprehensive income statement
+* statement of changes in equity: 公司主要持股股东的变更
+  
 * make economic decisions. 
-    * invest in securities
-    * recommend them to investor
+  * invest in securities
+  * recommend them to investor
 * evaluate company's past performance and current financial position to predict future 
-
-
-### 各种表
 * Balance sheet = statement of financial position = statement of financial condition
     * assets = liabilities + owner's equity
     * capital structure: proportions of liabilities + equity
@@ -61,18 +56,9 @@
     * reports the amounts and sources of changes in equity investor's investment in the firm 
 * Statement of cash flows:
     * reports the company's cash receipts and payments 
-    
-#### Measurement of financial elements
-* Historical cost: The amount originally paid for the asset
-* Amortized cost: 扣除depreciation, amortization, depletion and impairment之后的historical cost
-* Current cost: The amount the firm would have to pay today for the same asset. 现价
-* Realizable value: 现在卖掉资产最后能到手的钱
-* Present value: The discounted value of the asset's expected future cash flow.  
-* Fair value: 公允价值
-
 
 ### Footnotes and Audit
-* Financial statement notes(footnotes) 
+* Financial statement notes(footnotes): 提供更多的细节 几乎会解释B/S中的每一个条目,常见的披露内容包括
     * further details about the information summarized in the financial statements
         * fiscal period coverd by the statements 
         * accounting methods, assumptions, and estimates used by management
