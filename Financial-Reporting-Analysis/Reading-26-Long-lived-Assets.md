@@ -50,7 +50,48 @@
 * Revaluation model / cost model 
 * intangible assets created internally 
 
+### Tangible Assets
+Carrying value == carrying amount == net book value == book value
+
+可以使用的状态是区分 资本化 和 费用化的分界点
+* Capitalize 
+  * purchase price
+  * tax, freight and insurance
+  * delivery
+  * installation
+  * testing
+  * asset enhancement costs(可使用状态之后仍然可以资产化)
+* Expense
+  * depreciation
+  * repair & maintenance
+  * staff training
+
+* Revaluation Model(FV)
+  * 重估增值: OCI 
+  * 重估减值 
+
+* Depreciation
+  * straight-line 线性折旧
+  * accelerated depreciation 双倍
+  * units of production
+
+
+### Intangible Assets
+* 分类
+  * identifiable IA(可以单独交易和买卖)
+    * parents
+    * trademarks  
+    * copyright purchased
+  * unidentifiable
+    * goodwill
+  * internally generated 内部产生的
+    * R&D
+      * Research: expense as incurred
+      * Development
+        * IFRS: Capitalize
+        * GAAP: Expense except for costs to develop a software
 
 ## 课后练习
 
 
+* copyright with no expiration date is an intangible asset with an indefinite useful life

@@ -2,7 +2,7 @@
 
 ## Objectives
 
-* **Describe**
+* **describe**
   * Describe hedge funds, private equity, real estate, commodities, infrastructure, and other alternative investments, including, as applicable, strategies, sub-categories, potential benefits and risks, fee structures, and due diligence
   * Describe potential benefits of alternative investments in the context of portfolio management 
   * Describe issues in valuing and calculating returns on hedge funds, private equity, real estate, commodities, and infrastructure
@@ -161,3 +161,14 @@
 * seed-stage 融资主要用来 product development and/or marketing efforts
 * real estate 没办法homogeneity 因为每个房子都不一样
 * direct capitalization approach 用net operating income 折现
+
+* trade sale是什么？？ Private equity funds can realize an immediate cash exit in a trade sale. Using this strategy, the portfolio company is typically sold to a strategic buyer.
+
+*  An economic infrastructure asset supports economic activity and includes such assets as transportation and utility assets. Hospitals are social infrastructure assets, which are focused on human activities.
+*  what is distressed debt??
+*  hurdle rate 也是在high water 的基础上计算的
+*  segregation of risk and investment process duties is an effective risk management process
+*  what is downside risk?? many alternative investments have exhibited high downside risks.
+*  Futures price ≈ Spot price (1 + r) + Storage costs − Convenience yield.
+*  An investor who has positions in multiple long–short equity hedge funds and is concerned about whether these positions are sufficiently diversified will mostly likely be concerned about the lack of: transparency in reported positions.
+*   The Sharpe ratio and the safety-first measure use standard deviation as the measure of risk, which ignores the negative skewness in returns. The Sortino ratio uses the downside deviation as the measure of risk, which will reflect negative skewness if present.

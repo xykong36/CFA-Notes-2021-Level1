@@ -1,5 +1,4 @@
 ## Objectives 
-
 * Describe
     * matrix pricing
 * Define
@@ -19,7 +18,6 @@
 ## 基础单词/概念
 * premium bond: coupon rate > YTM
 * discount bond: coupon rate < YTM
-
 * spot curve
 * yield curve
 * par curve
@@ -48,11 +46,11 @@ basis point: 计量单位 0.01% 75bps = 0.75%
 * time-to-maturity相同, coupon rate低, 相同r变化 -> 价格变化率大
 * coupon rate 相同，r变化 -> 长期债券百分比变化大
 
-(t / T) * PMT
-t: number of days from the last coupon payment to the settlement date
-T: number of days in the coupon period
-t/T: fraction of the coupon period that has gone by since the last payment
-PMT: coupon payment per period
+* accrued interest: $\frac{t}{T}$ * PMT
+  * t: number of days from the last coupon payment to the settlement date
+  * T: number of days in the coupon period
+  * t/T: fraction of the coupon period that has gone by since the last payment
+  * PMT: coupon payment per period
 
 
 actual/actual: 按照实际的日期直接进行转换
@@ -164,3 +162,7 @@ Z-Spread
 * Q24: 计算器怎么用
 * Q27 什么是first-call ? call price = 当年的future value?  coupon rate 不变 maturity 变短 FV， PMT 同号，PV, FV反的（一个正一个负） 已知4个变量 求最后一个变量
 * Q31 Discount margin / required margin ?
+
+
+## Q&A
+coupon rate 和 discount rate的区别是什么？ quoted margin 和 required margin 的区别?

@@ -90,6 +90,9 @@ In periods of rising inventory unit costs, the carrying amount of inventory unde
 A: LIFO liquidation  是为了故意使用存货来压低成本
 * specific identification 
 
+* perpetual的是按照单笔订单来计算,而periodic是按照一个季度的整体来计算
+* inventory cost是需要和生产过程相关才可以
+* inventory -> profix -> tax -> cash flow
 
 ## Q&A
 price increasing 影响哪些变量? 和存货相关的所有variable都有什么? 
