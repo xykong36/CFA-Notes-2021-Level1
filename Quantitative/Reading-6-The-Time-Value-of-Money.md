@@ -29,9 +29,7 @@ $R_p$: risk premium = default premium + liquidity premium + maturity premium
     * Maturity risk: 长期的利率风险市场不稳定
 * Effective Annual Rate(EAR): The rate of interest that investors actually realize as a result of compounding.
     * 计算公式
-```math
-    EAR=(1 + R_{period})^m  - 1 
-```
+    $EAR=(1 + R_{period})^m  - 1$ 
 
 * EAR例题
     1. Compute EAR if the stated annual rate is 12%, compounded quarterly. 
@@ -66,7 +64,7 @@ FV = PV(1 + I/Y)^N
     *  Type
         * single cash flow: 只涉及一笔现金流 用不到PMT健
              * 例题
-                1. 算FV: 200 PV 4年 10%利率 求FV ![333667a50a357c39bc1ad00d1a95f4d5.png](evernotecid://1FC78D12-88FB-4FAC-95A1-F7FB5953B0DF/appyinxiangcom/29211871/ENResource/p1)
+                1. 算FV: 200 PV 4年 10%利率 求FV 
                 2. 算PV: Given a discount rate of 10%, calculate the PV of a $200 cash flow that will be received in two years. 2 -> N 10 -> I/Y 200 -> FV CPT -> PV
 
         * annuity: stream of equal cash flows that occurs at *equal intervals* over a given period 固定钱 固定周期 需要用PMT健
@@ -94,10 +92,6 @@ FV = PV(1 + I/Y)^N
     * CPT: Compute
 
 ## Questions
-为什么钱有时间价值? 因为投资回报?? 
-
-什么是碎片化的知识? 
-
-举例 money具有时间价值，你知道如何计算 时间价值 用interest rate来算 interest rate的组成包括。。。 但是具体的实例有吗？量化的数据有吗？相关的理论知识有吗? 
+为什么钱有时间价值? 因为投资回报??  
 
 想清楚变量和常量 

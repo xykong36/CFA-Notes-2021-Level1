@@ -1,4 +1,4 @@
-# 2.14 Mock-Exam-A-Session-I
+## 2.14 Mock-Exam-A-Session-I
 * non-public non-material information 和 insider information的区别?
 * the current GIPS standards includes new provisions related to various measures of risk
 * A composite must include all actual, fee-paying, discretionary portfolios managed in accordance with the same investment mandate, objective, or strategy
@@ -31,3 +31,57 @@
 * Interest paid 在US GAAP中作为 operating cash flow, IFRS中作为operating OR financing cash flow
 * Interest coverage = EBIT/Interest payments, Operating ROA = EBIT/Average total assets
 * single step I/S 会有一个operating income作为subtotal  multi step I/S 会有gross margin
+
+
+## 2.15 Mock-Exam-A-Session-II
+
+* Q15: what is passive proprietary trading? 
+* Q16: ethical decision-making framework
+* Q21: t-distribution 是在variance known 还是unknown的时候用呢? 
+* Q22: p-value 是0.0275代表什么呢?
+* Q24: baye's rule
+* Q25 怎么算? 
+* Q26: EAR
+* Q30 的题目是个啥?
+* Q32 AD 右移代表什么?
+* Q34 如何计算real exchange rate ?
+* Q35: monopolistic competition vs. monopoly 区别??
+* Q39: 
+* Q46: the translation of foreign currency–denominated subsidiary financial statements. 这是啥? 
+* Q47: IOSCO 是干嘛的?
+* Q48: revaluation model 怎么算?
+* Q51: 
+* Q52: 题没看懂
+* Q53 valuation allowance是啥东西?
+* Q54: abnormal waste 应该怎么算那一类?
+* Q55: DTL 怎么计算? 
+* Q56: ROA 和 LIFO reserve有关系吗? 先转为FIFO 
+* Q58
+* Q61 
+* Q62: debt 的beta是多少?
+* Q65 capital budgeting process
+* Q66 sunk costs + externalities 要包含吗? 是否使用after-tax basis?
+* discount basis yield 是什么?
+* Q72: reduction in exposure to regulatory actions 是减少监管的意思?
+* Q75: dark pools ??
+* Q76
+* Q77: finance subsidiariy 是什么?
+* Q81 two-stage dividend discount model 在干嘛?
+* Q83 ???
+* Q84 
+* Q89 par value是多少? YTM不需要face value??
+* Q92 lockout period??
+* Q94
+* Q95 notching adjustment 是什么?
+* Q99 各种duration的计算
+* put-call parity 等价转换
+* return earned on margin
+* Q112: trade sale / secondary sale / IPO
+* realative strength index for a stock
+* Q117: total risk / relative risk / absolute risk
+* Q118: coefficient of risk aversion ??f
+
+## 反思&总结
+* 很多计算题不会做是因为涉及到了多个变量但是不知道变量之间的关系，比如计算汇率一定会涉及到两个国家，同时可能还要加入price index, 就是有4个量，会计当中的profit至少要有收入和支出两个量，如果再结合technical ratio就会再增加两个变量，fixed income/equity中进行valution一定会涉及到多个未来的现金流折现。
+* 我的目标就是80%正确率 有20%的题目不会/做错很正常 不用纠结 先把所有主干的知识点整理好 保证不出问题即可
+* 

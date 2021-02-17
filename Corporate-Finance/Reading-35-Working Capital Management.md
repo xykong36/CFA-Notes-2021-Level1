@@ -36,6 +36,7 @@
   * cash conversion cycle(net operating cycle) = number of days of receivables + number of days of inventory - number of days of payable
 
 * average inventory =  begin + end / 2 
+d
 
 ### trade discounts cost
 * 术语 2/10, net 30 

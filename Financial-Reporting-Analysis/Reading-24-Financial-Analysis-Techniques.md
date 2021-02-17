@@ -47,7 +47,7 @@
 * receivable turnover = $\frac{annual \ sales}{average \ receivables}$ 
   * days of receivables collection= $\frac{365}{receivables \ turnover}$ (average time to collect account receivables)
 * payables turnover = $\frac{purchase}{average \ accounts \ payables }$ 
-  * days of receivables collection= $\frac{365}{receivables turnover}$ (average time to collect account receivables)
+  * days of payables collection= $\frac{365}{payables \ turnover}$ (average time to collect account receivables)
 * inventory turnover = $\frac{COGS}{average \ inventory}$ 
   * days of inventory on hand = $\frac{365}{inventory \ turnover}$
 * operating cycle: days of receivables collection + days of inventory on hand

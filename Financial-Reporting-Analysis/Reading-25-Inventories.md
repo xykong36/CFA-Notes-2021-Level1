@@ -45,10 +45,11 @@ inventory valuation method统一的话 可以方便对不同的公司进行比�
 * product costs(capitalized cost)
   * purchase cost
   * conversion costs
+  * storage costs required as part of production
   * other costs
 * period costs(expensed cost) 
   * abnormal waste
-  * storage costs
+  * storage costs (after production)
   * administrative and selling expense
 
 ### LIFO -> FIFO

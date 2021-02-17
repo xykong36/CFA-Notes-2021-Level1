@@ -20,6 +20,9 @@
 * carrying value = purchase value + amortized amount of the discount 
 * carrying value 等于 par value + 每年的计算 
 * premium bond 往下走 / discount bond 往上走
+* yield volatility
+* 
+* 
 
 ## Notes
 
@@ -41,7 +44,7 @@
     * effective duration
 
 * 计算公式:
-    * Macaulay: 算出N个折旧PV 然后用 当前的PV/总PV 算出一个weight，然后用weight * period = 当期的duration 相加和得到最后的duration
+    * Macaulay: 算出N个折旧(用YTM作为discount rate)PV 然后用 当前的PV/总PV 算出一个weight，然后用weight * period = 当期的duration 相加和得到最后的duration
     * modified: MacDur / (1 + r)
 * Convexity
 
@@ -57,3 +60,14 @@
 * credit risk / interest risk 分别影响 本金 和 coupon收益
 * 五个变量 已知四个 求最后一个  N I/Y PV PMT FV
     * Q4: 算 
+* putable bonds always have positive convexity
+* yield volatility is downward sloping, then: long-term yields are more stable than short-term yields.
+* Macaulay duration -> number of years necessary to hold the bond so that the losses (or gains) from coupon reinvestment offset the gains (or losses) from market price changes.
+* duration gap is the difference between the Macaulay duration and the investment horizon
+* Modified duration approximates the percentage price change of a bond given a change in its yield-to-maturity.
+* duration gap 
+  * positive -> price risk dominates coupon reinvestment risk. The investor risk is to higher rates.
+  * zero -> the investor is hedged against interest rate risk
+  * negative -> coupon reinvestment risk dominates market price risk, investor is at risk of lower rates
+* changes in the expected inflation rate influence the benchmark rate
+* 对于option-free, fixed-rate bond来说 real rate duration = inflation duration = liquidity duration

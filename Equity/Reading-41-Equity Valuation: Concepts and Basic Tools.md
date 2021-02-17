@@ -69,9 +69,9 @@
 3. 算growth rate 
 
 * 区分针对D0和D1有两个不同的计算公式
-  * D1 / r - gc
-  * D0 * (1 + gc) / r - gc
-  * Do = (1 - RR) * EPS #从每股收益中划出一部分钱来发股利
+  * $\frac{D_1}{r - g_c}$
+  * $\frac{D_0 (1 + g_c)}{r - g_c}$
+  * $D_0$ = (1 - RR) * EPS #从每股收益中划出一部分钱来发股利
   * growth rate = ROE * RR
   * required rate of return = risk-free rate + /beta(risk-market - RFR)
 

@@ -17,15 +17,37 @@
   * Explain under which circumstances the values of European and American options differ
   
 * **Calculate**
-* Calculate a forward price of an asset with zero, positive, or negative net cost of carry
+  * Calculate a forward price of an asset with zero, positive, or negative net cost of carry
 
-* **Distinguish**
-* Distinguish between value and price of forward and futures contracts
-* Distinguish between the value and price of swaps
+  * **Distinguish**
+  * Distinguish between value and price of forward and futures contracts
+  * Distinguish between the value and price of swaps
 
 ## 基础词汇/概念
+* put-call parity
+* convenience yield: a nonmonetary advantage of holding the asset 属于一种benefit,正常情况下基本不存在
+* replication: creation of an asset or portfolio from another asset, portfolio, and/or derivative
 
 ## Notes
+
+* long asset + short derivative = long risk-free asset
+* long asset + short risk-free asset = long derivative
+* short derivative + short risk-free asset = short asset
+
+* forward price vs. forward value
+  * price 是在最开始定死的,在expiration那一天要交的钱，但是价值value是会随着市场行情的变化而变化
+* net cost of carry = benefit - cost 如果大于0会导致forward price下降
+
+
+* future vs. forward
+  * typically both forward and futures contracts are initiated at a zero value
+  * A negative correlation between futures prices and interest rates makes forwards more desirable than futures in the long position.
+
+* swap
+  * swap price is determined at initiation by replication
+  * The value of a swap is equal to the present value of the net cash flow payments from the swap
+  * If no cash is initially exchanged, a swap is comparable to a series of forward contracts when the combined value of all the forward contracts is zero.
+
 open question: asset定价需要考虑risk premium, 为什么derivative定价不要考虑risk premium?
 - 为什么value derivative一定要 use no-arbitrage condition？
 - risk-free和no-arbitrage的关系？
@@ -79,4 +101,6 @@ European Option的特点是只能在最后的expiration date行权
 Q29 影响Option price的factors (49.k)
 Option获利计算
 
-
+* swap pricing 用到了 risk neutrality
+* The price of a forward contract is the amount paid at **expiration**
+* 
