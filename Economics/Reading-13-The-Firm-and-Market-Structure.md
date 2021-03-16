@@ -7,8 +7,12 @@
     * explain factors affecting long-run equilibrium under each market structure 
     * identify the type of market structure within which a firm operates
 
-## 基础词汇
-* collusion 勾结 合谋 OPEC(Organization of the Petroleum Exporting Countries) 商量一起定价
+## 基础词汇/概念
+* collusion 勾结 合谋 商量一起定价
+* OPEC(Organization of the Petroleum Exporting Countries) 
+* Producer Surplus: 卖家实际成交价 - 市场价
+* Consumer Surplus: 消费者愿意付的钱减去消费者实际支付的钱
+* Deadweight loss： 没有人得到好处的部分 
 
 ## Notes
 * 四种市场类型 four market structure: 
@@ -24,15 +28,14 @@
     * 准入门槛 barriers to entry 
     * 产品差异化程度 amount of product differentiation 
 
-
-### Perfect Competition 完全竞争市场-理想化模型 (大白菜市场)
+### Perfect Competition 完全竞争市场-理想化模型 (e.g. 大白菜市场)
 * 特点: 
     * 商品完全无差别 
     * price taker(市场上存在无数个买方和卖方,没有任何一个买方(或卖方)可以凭借自己的消费量/供给量来影响市场价格)
 * P = MC = MR = ATC (equilibrium 状态) 如果当前价格大于MC就会有新玩家 当前的玩家也会不断expand直到P = MC 
 * 有可以确定的supply function 横的Demand
 
-### Monopolistic Competition(苹果/华为/小米/Oppo/...) 这里的垄断是指对于自家产品的垄断 
+### Monopolistic Competition(e.g. 手机市场 苹果/华为/小米/Oppo/三星) 这里的垄断是指对于自家产品的垄断 
 * 市场特点: 
     * 产品有差异 可以通过price,quality,marketing来获得优势
     * 门槛低
@@ -41,7 +44,7 @@
     * 短期: 存在超额利润 P > ATC > MC 
     * 长期: 不存在超额利润 P = ATC > MC 有利润 但是economic profit 为0 
 
-### Oligopoly(支付宝 vs. 微信支付)
+### Oligopoly(e.g. 支付宝 vs. 微信支付)
 * 四种模型来描述寡头
     * Kinked 拐折 对手的行动让你无法如愿 降价别人跟 涨价别人不跟
     * Cournot duopoly model(两家 MC一样 Q1=Q2)
@@ -58,7 +61,7 @@
         * 长期看 大哥的市场份额会下降 因为有新玩家入场 
 * collusion: 有利于利益最大化 但是大多数情况下回失败 因为存在政府监管 以及Nash均衡
 
-### Monopoly(中国石油)
+### Monopoly(e.g. 中国石油)
 * 计算MR的公式 $MR = P(1 - \frac{1}{E_p})$ $E_p$为弹性的绝对值 推导是直接从定义来的 MR= ΔTR/ΔQ
 * 如果没有政府监管，那么长期/短期都有超额收益
 * 市场集中度的两个指标
@@ -73,13 +76,6 @@
     * 定价为MC -> 增加产量 降低几个 -> 规模不经济 ATC > MC 产生了亏损 需要补贴 efficient 
 
 ## Q&A
-1. 供给曲线右移代表什么意思? 同样的价格条件下 市场上商品的供给量增加。供给曲线的定义是在**给定价格(x轴)**上商家能够提供的**商品的数量**
-2. 【问】如何区分均衡沿供给曲线右上方移动和供给曲线右移? 
-3. 为什么完全竞争市场的Demand曲线是横的?  无限供给 在市场价格P下，无论想买多少，供给都是充足的  
-4.
-![6a63c171ccc49d50498c1e9518334607.png](evernotecid://1FC78D12-88FB-4FAC-95A1-F7FB5953B0DF/appyinxiangcom/29211871/ENResource/p5)
+* 供给曲线右移代表什么意思? A: 同样的价格条件下市场上商品的供给量增加。供给曲线的定义是在**给定价格(x轴)**上商家能够提供的**商品的数量**
+* 为什么完全竞争市场的Demand曲线是横的? A:无限供给 在市场价格P下，无论想买多少，供给都是充足的  
 
-
-Deadweight loss怎么解释? 
-Producer Surplus: 是高出当前市场价格的??
-Consumer Surplus

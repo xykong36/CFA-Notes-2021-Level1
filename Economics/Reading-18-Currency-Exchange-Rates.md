@@ -18,7 +18,9 @@
 * real exchange rate
 * nominal exchange rate
 * spot exchange rate
-* forward exchange rate: 远期 
+* forward exchange rate: 远期汇率 不是当下直接交易 而是约定好了未来某个时间段
+* cross rate: exchange rate between two currencies implied by their exchange rates with a common third currency. 
+
 
 ## Notes
 
@@ -41,15 +43,9 @@ forward currency contract是为了规避汇率风险的
     * Governments
     * Retail market: 旅游要花当地货币 
 
-
-cross rate: exchange rate between two currencies implied by their exchange rates with a common third currency. 
-
 古巴的CUC 换 USD 换 RMB
 
 Forward exchange rate: 两种计算方式
 * point: 0.0001 方便表示
 * percentage 变化
 * relation between interest rate, forward rate and spot rate 
-
-
-## 课后练习

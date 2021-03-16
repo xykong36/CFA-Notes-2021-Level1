@@ -105,7 +105,6 @@ quantitative easing(量化宽松): 当利率为0的时候，central banks began 
     * 宽松政策 -> 短期利率r下降 -> 长期的通货膨胀率上升 -> 长期债券的收益降低 -> 投资者卖出长期债券(债券价格是未来现金流折现求和 折现的过程中用到了长期利率) -> 长期利率上升 -> 长期来看是紧缩政策(与央行的宽松政策矛盾)
 * liquidity trap 流动性陷阱: 经济危机严重 银行不愿意贷款  居民/企业 不愿借钱 增加的货币没人要
 
-
 #### Monetary Policy in Developing Economies 
 * Absense of liquid bond markets 没有债券市场不方便进行各种操作
 * Lack of credibility 没有信誉 说话不好使
@@ -116,9 +115,8 @@ quantitative easing(量化宽松): 当利率为0的时候，central banks began 
 ### Fiscal Policy 
 * definition: 政府要决定花多少钱
 
-
 #### Quantity Theory of Money
-* `M * V = P * Y` 核心就是买的价格 = 卖的价格 供给的货币 = 实际的产出物品的总价
+* $M * V = P * Y$ 核心就是买的价格 = 卖的价格 供给的货币 = 实际的产出物品的总价
     * M: Money quantity
     * V: Velocity of circulation of money 
     * P: Price level 
@@ -132,29 +130,13 @@ quantitative easing(量化宽松): 当利率为0的时候，central banks began 
     * Transfer payment
     * Current government spending
     * Capital expenditure
-
 * Ricardian Equivalence: 政府减税 -> 百姓看来未来加税 -> 继续存钱
 
-#### 表现形式
-
-#### 各种实施措施(Implementation)
-
-discretionary fiscal policy 与 automatic stabilizers (比如对照
-
-Recognition lag: 
-Action lag:
-Impact lag: 
-
-
-
-## 课后练习
-
 ## Q & A
-* 扩张的loose fiscal policy是在干嘛? 为什么会导致更高的利率? 多花钱 少收税 -> 要借钱 -> 银行钱不够借了 -> 利率升高(借给愿意付高价利息的人) 
+* 扩张的loose fiscal policy是在干嘛? 为什么会导致更高的利率? 
+  A: 多花钱 少收税 -> 要借钱 -> 银行钱不够借了 -> 利率升高(借给愿意付高价利息的人) 
 * Money neutrality 如何理解? 
-
-FED通过公开市场操作买卖美国政府债券来增加货币供给 再加上fractional reserve system 可以有杠杆
-
-FED的工作:
-1. 管制银行并确保银行体系的正常运行，由地区联邦储备银行负责，监管每个银行的财务状况，推进 最后贷款者
-2. 
+* FED通过公开市场操作买卖美国政府债券来增加货币供给 再加上fractional reserve system 可以有杠杆
+* FED的工作:
+  1. 管制银行并确保银行体系的正常运行，由地区联邦储备银行负责，监管每个银行的财务状况，推进 最后贷款者
+ 

@@ -21,19 +21,14 @@
 
 ## 基本词汇&概念
 
-IS - LM Model: 描述Y和r之间的关系
-AS-AD Model: 描述Y和P之间的关系 AD 是由IS-LM推导出来的
-
-Aggregate Supply Curves 
-* inflation, deflation, stagflation 
-* capital consumption allowance (CCA): measure the depreciation of physical capital from the production of goods and services 
-
-GDP = Consumption + Investment + Government Spending + Net export(export - import)
-
+* IS - LM Model: 描述Y和r之间的关系
+* AS-AD Model: 描述Y和P之间的关系 AD 是由IS-LM推导出来的
+* Aggregate Supply Curves 
+  * inflation, deflation, stagflation 
+  * capital consumption allowance (CCA): measure the depreciation of physical capital from the production of goods and services 
+* GDP = Consumption + Investment + Government Spending + Net export(export - import)
 * sum-of-value-added method: GDP is calculated by summing the additions to value created at each stage of production and distribution 
-
 * GDI (Gross Domestic Income) = national income + capital consumption allowance + statistical discrepancy 
-
 * national income = sum of the income received by all factors of production that go into the creation of final output 
 
 * capital consumption allowance measures the depreciation of physical capital from the production of goods and services over a period
@@ -53,30 +48,11 @@ GDP = Consumption + Investment + Government Spending + Net export(export - impor
 
 ## Notes 
 
-GDP:
-计入统计的:
-![01cf97a05dfcd5a00b69b339fd642ba6.png](evernotecid://1FC78D12-88FB-4FAC-95A1-F7FB5953B0DF/appyinxiangcom/29211871/ENResource/p6)
-不计入统计的:
-![402d911520f0501472cd0f0aea12dced.png](evernotecid://1FC78D12-88FB-4FAC-95A1-F7FB5953B0DF/appyinxiangcom/29211871/ENResource/p7)
-
-expenditure approach, the major components of real GDP 
-final 
-
-自有房/自住房
-
-GDP = 地理概念
-GNP = 国民概念
-
-GDP 计算方法
-* expenditure approach: 直接用最终价格来计算
-* income approach: 通过每一个环节增加的收入来计算】
-
+### GDP
 
 ### IS-LM 理论
 
-IS curve(income-savings) 
-
-relationship between real interest rates and real income for equilibrium
+* IS curve(income-savings): relationship between real interest rates and real income for equilibrium
 
 1. 描述的是商品市场中的利率与总收入的关系
 2. 利率 interest rate 增加 investment下降 总收入Y下降
@@ -84,37 +60,29 @@ relationship between real interest rates and real income for equilibrium
     * 政府支出G增加或X出口增加，扩张，曲线
     * 税收T增加或M增加，紧缩，曲线左移 
 
-利率是资金的价格， 价格是自变量 ? 
-利率与投资之间的关系   
+* LM(Liquidity-Money): 描述货币市场均衡，可以看做流动性和货币的关系
 
-![23c857f51658f5afb86dc1e1578bf7ba.png](evernotecid://1FC78D12-88FB-4FAC-95A1-F7FB5953B0DF/appyinxiangcom/29211871/ENResource/p8)
+* 货币需求
+  * Transaction demand(交易性需求): 需要花钱买东西 
+  * Precautionary demand(预防性需求): 需要多准备钱来预防意外情况 
+  * Speculative demand(投机需求)
 
+* $L_1$ = Transaction demand + Precautionary demand 
+* $L_2$ = Speculative demand 
 
-LM(Liquidity-Money)曲线
-
-描述货币市场均衡，可以看做流动性和货币的关系
-
-货币需求
-* Transaction demand(交易性需求): 需要花钱买东西 
-* Precautionary demand(预防性需求): 需要多准备钱来预防意外情况 
-* Speculative demand(投机需求)
-
-$L_1$ = Transaction demand + Precautionary demand 
-
-$L_2$ = Speculative demand 
-
-利率越高，投机性需求越低，钱都存银行，r与`$L_1$`反向， Y与`$L_1$`正向
-
+利率越高，投机性需求越低，钱都存银行，r与$L_1$反向， Y与$L_1$正向
 $M_s = M_d$说明市场均衡 
-
-实际$M_s$ P是某一个价格水平 
 $\frac{M_s}{P} = L_1 + L_2$
-
-
 IS 与 LM的交点是商品市场和货币市场的同时均衡，价格上升，真实货币供应减少。
 
 ### GDP(Gross domestic product) 
-* 定义
+GDP -> 地理概念
+GNP -> 国民概念
+
+* GDP 计算方法
+  * expenditure approach: 直接用最终价格来计算
+  * income approach: 通过每一个环节增加的收入来计算
+
 * GDP 核算
     * expenditure approach 
         * Y = I + C + G + NX(Net Exports)  
@@ -128,16 +96,16 @@ IS 与 LM的交点是商品市场和货币市场的同时均衡，价格上升�
 ### 总需求(Aggregate Demand)、总供给(Aggregate Supply) 和市场平衡
 * IS Curve 向下走的 (大前提: S = I + (G-T) + (X-M) 假设(G-T) 与 (X-M)不变)
     * 商品市场的均衡(Goods Market) 
-        * 公式: `$Y = C + I + G + X - M $`
+        * 公式: $Y = C + I + G + X - M $
     * r 增加 -> Investment(I) 下降 -> Y 降低
     * 利率改变导致movement along变化? 
     * 进出口与财政政策(影响政府支出变量G)变化会导致IS曲线的Shift
 * LM Curve 向上走的 (大前提: 假定货币总供给不变-央妈决定的)
     * 货币市场的均衡(Money Market) 
-    * `$M_S = M_D$`
+    * $M_S = M_D$
     * Y 上升 -> L1上升 -> 假定L1 + L2是定值 因为货币总供给是不变的 -> L2下降 -> r上升
     * 利率改变 正相关
-    * 扩张的货币政策 OR 物价水平下降 那么增加`$\frac{M_S}{P}$`货币供应 -> 曲线右移(GDP增加)  
+    * 扩张的货币政策 OR 物价水平下降 那么增加 $\frac{M_S}{P}$ 货币供应 -> 曲线右移(GDP增加)  
     * 紧缩 OR 物价水平上升 -> 减少货币供应 -> 曲线左移
 * Aggregate Supply 
 * Aggregate Demand 
@@ -145,24 +113,15 @@ IS 与 LM的交点是商品市场和货币市场的同时均衡，价格上升�
 * AS + AD 综合效果 
 
 AD: 总需求的关系 中间有一个利率的中间推导
-Nominal Money Supply vs. Real Money Supply
-M / Price Constant 
+Nominal Money Supply vs. Real Money Supply 区别在于 M / Price Constant 
 
 * Movement和Shift的区分
     * Movement along发生在自变量改变导致因变量跟着改变
     * Shift发生在原来是假设不变的变量 现在发生改变
 
-GDP 反映的是生产总量 
-
-
 短期和长期影响的区别在于 
-
-AD
-
-AS 不同的解释模型
-
-短期只看单个曲线的移动就足够了
-长期的话两个曲线都有影响 
+* 短期只看单个曲线的移动就足够了
+* 长期的话两个曲线都有影响 
 
 ## Q & A 
 * What determines national income for a given price level? 

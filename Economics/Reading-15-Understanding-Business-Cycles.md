@@ -1,6 +1,7 @@
 ## Objective 
 
 **Describe/Explain/Interpret/Distinguish** 
+
 * business cycle and its phases
 * theories of the business cycle 
 * types of unemployment and compare measures of unemployment
@@ -19,17 +20,13 @@
 * prime rate 优惠利率: 为了刺激特定部门的生产而提供
 * inflation/deflation/disflation: 通胀/通缩/通胀减小
 
-
 ### Business Cycle 
 * peak: Accelerating inflation and rapidly expanding capital expenditures
 * inventory-sales ratio  
 * utilization of labor levels 
 * utilization of physical capital levels  
 
-失业率和通胀的指标是有滞后性的
-
 #### Housing Sector Activity 
-沟通制造业 金融业 
 * Mortgage rates: low -> active 
 * Housing costs relative to income: 家庭年收入 6-7年正常 
 * Speculative activity:  
@@ -92,7 +89,7 @@
             * New goods (数字手机 vs. 智能手机)
             * Quality changes 
             * Substitution (功能相同的商品 顾客选择买便宜的)
-        * 解决方案: hedonic pricing (进行调整) 使用 Fisher index 将Paasche index 和 Laspeyres index求geometric mean `$I_F = \sqrt{I_P*I_L}$`
+        * 解决方案: hedonic pricing (进行调整) 使用 Fisher index 将Paasche index 和 Laspeyres index求geometric mean $I_F = \sqrt{I_P*I_L}$
     * Paasche index 使用当前的商品数量来计算 过去+当前
 * Cost-Push inflation vs. Demand-Pull inflation 
     * Cost-Push: 
@@ -129,6 +126,6 @@
 
 
 ## Q & A
-* interest rate spread是什么? 
+* interest rate spread是什么? A: 利率的价格差 相同maturity的市政债券和美国国债可能会有不同的利息率
 * federal funds rate: 银行之间的拆解率 10-year US Treasury yields之间的 spread narrow
 * prime rate: bank charge customer
