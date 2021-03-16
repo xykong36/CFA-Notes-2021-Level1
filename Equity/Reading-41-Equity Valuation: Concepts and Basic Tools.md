@@ -77,7 +77,7 @@
 
 * Two-stage model: 两个stage都要折现到当前时间
   * 第一个stage every year one by one,
-  * second stage: calculate the present value 
+  * second stage: calculate the present value with Gordon growth model 然后再进行折现 
 
 #### Price Multiple Approach 
 * Justified P/E: P不使用市场价格 而是使用intrinsic value 通过DDM算出来的 D1 / r - g

@@ -23,9 +23,7 @@
 
 ## Notes
 
-
 ### Describing Data Sets
-
 * descriptive: e.g. 身高180cm
 * inferential: forecast, estimates, or judgments about a large set of data 从抽样样本来推断总体
 
@@ -53,9 +51,7 @@
 * Geometric Mean: 复利思想 用于计算investment returns over multiple periods or when measuring compound growth rates 
 * Harmonic Mean(调和平均) 专门用于计算average cost of shares purchased over time e.g. 计算定投的平均成本 例题: 三个月每个月买1000块的股票，股价分别是 10， 9， 8， 计算每股的价格 不能直接 (10 + 9 + 8) / 3 因为买的份数不相同， 应该是 3000 / (1000/ 10 + 1000/9 + 1000/8) 或者直接调和平均 3 / (1 / 8 + 1 / 9 + 1 / 10)
 
-sample variance 与 population variance的区别在于 sample variance的分母用`$N - 1$`, 而population variance的分母用`$N$`
- 
-
+sample variance 与 population variance的区别在于 sample variance的分母用 $N - 1$, 而population variance的分母用`$N$`
 需要算一下 L = (n + 1) * (y / 100) 为了保证当N为奇数和偶数都能得到有效的结果
 * Quartile: 4等分
 * Quintile: 5等分
@@ -72,9 +68,6 @@ sample variance 与 population variance的区别在于 sample variance的分母�
     * Population Standard Deviation:  Population Variance开根号 
     
 **Chebyshev's inequality**: 对于任意一组观测值，个体落在均值周围k个标准差之内的概率不小于1 - 1/k^2,只有一个k所以两边是对称的
-
-![efde67584d8219c4cbc62d13a6ca3d6a.png](evernotecid://1FC78D12-88FB-4FAC-95A1-F7FB5953B0DF/appyinxiangcom/29211871/ENResource/p27)
-
 例题: 
 
 Coefficient of variation(CV): 变异系数
@@ -83,28 +76,22 @@ $$CV = \frac{s_x}{\mu}$$
 measure the risk(variability) per unit of expected return 
 e.g. Sharpe ratio: 夏普比率 $sr = \frac{R_p - R_f}{\sigma}$, 用return的方差或者标准差来衡量风险,每单位风险的超额收益
 
-
 **Skewness**
-![db78c6d668d7e6595a0a61b812c1f180.png](evernotecid://1FC78D12-88FB-4FAC-95A1-F7FB5953B0DF/appyinxiangcom/29211871/ENResource/p28)
 
 sample skewness
-```math
-\frac{1}{n} \frac{\sum_{i=1}^{n}(X_i - \bar{X})}{s^3}
-```
+$\frac{1}{n} \frac{\sum_{i=1}^{n}(X_i - \bar{X})}{s^3}$
 
 sample kurtosis
-```math
-\frac{1}{n} \frac{\sum_{i=1}^{n}(X_i - \bar{X})}{s^3}
-```
+$\frac{1}{n} \frac{\sum_{i=1}^{n}(X_i - \bar{X})}{s^3}$
 
 **Kurtosis**: 判断一个distribution是否比normal distribution更具有峰度 peaked
 
-计算
-![e91e95979cd0fb1c1939b355689d7ee7.png](evernotecid://1FC78D12-88FB-4FAC-95A1-F7FB5953B0DF/appyinxiangcom/29211871/ENResource/p29)
-l: 竖直 峰度更高 大于 3 大于 0 
-p: plat 更平坦 小于 3 小于 0
+* l: 竖直 峰度更高 大于 3 大于 0 
+* p: plat 更平坦 小于 3 小于 0
 
-
+## 课后练习
+* Q19: 先排序 找分位数所在位置(注意要用n + 1作分母) 按比例进行加减
+* Q32: positively skewed 是右偏 右边尾巴长 极端值多 将mean拉大
+* Q35: past perfomance 应该用 geometric mean
 ## Q&A
-
 * cumulative relative / relative: cumulative 需要将当前interval之前的所有的值都加起来 relative frequency只需要考虑当前的interval的相对值 但是题目里面还是会以当前interval来出题

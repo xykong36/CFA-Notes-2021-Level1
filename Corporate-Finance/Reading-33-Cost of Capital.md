@@ -1,9 +1,5 @@
 # [重点]Cost of Capital
 
-* :white_check_mark: CFA官网课后题
-* 课本练习题
-
-
 ## Objective
 * **Describe/Explain**
   * Describe how taxes affect the cost of capital from different capital sources

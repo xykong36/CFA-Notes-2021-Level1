@@ -8,6 +8,7 @@
 * **Calculate/Construct**
     * confidence interval for a population mean, given a normal distribution with known population variance/unknown population variance/unknown population variance + large sample size
     * the standard error of the sample mean
+
 * **Describe/Explain/Interpret/Distinguish** 
     * sampling error
     * simple random and stratified random sampling
@@ -56,10 +57,8 @@ Desirable properties:
 * consistency: probability of accurate estimates increases as sample size increases
 * unbiasedness: the expected value of the estimator equals the population paramter
 
-
 known variance: Z table
 unknown variance: T Table
-
 
 #### Sampling biases
 * data-mining bias: 通过sample得到的model本身是依赖于dataset的，需要用out sample data来做test
@@ -69,3 +68,4 @@ unknown variance: T Table
 * time-period bias: sample data的时间段的太短 
 
 ## 课后练习
+* Q26: continuously compounded return $\ln{\frac{120}{112}}$

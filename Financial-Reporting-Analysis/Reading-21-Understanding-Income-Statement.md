@@ -3,14 +3,14 @@
 
 ## Objective
 
-** **Describe**
-* the objective of financial reporting and the importance of financial reporting standards
-* the roles of financial reporting standard-setting bodies and regulatory authorities in establishing and enforcing reporting standards
-* the International Accounting Standards Board’s conceptual framework, including qualitative characteristics of financial reports, constraints on financial reports, and required reporting elements
-* general requirements for financial statements under International Financial Reporting Standards (IFRS)
-* implications for financial analysis of alternative financial reporting systems and the importance of monitoring developments in financial reporting standards
-
-
+* **Describe**
+  * the objective of financial reporting and the importance of financial reporting standards
+  * the roles of financial reporting standard-setting bodies and regulatory authorities in establishing and enforcing reporting standards
+  * the International Accounting Standards Board’s conceptual framework, including qualitative characteristics of financial reports, constraints on financial reports, and required reporting elements
+  * general requirements for financial statements under International Financial Reporting Standards (IFRS)
+  * implications for financial analysis of alternative financial reporting systems and the importance of monitoring developments in financial reporting standards
+* **Calculate**
+    * Calculate revenue given information that might influence the choice of revenue recognition method
 ### Notes
 * standard setting bodies: 
     * FASB -> 

@@ -26,7 +26,7 @@
 
 ### Liquidity Ratios (短期负债偿还能力)
 - Cash Ratio: $\frac{cash + short-term marketable securities}{current \ liabilities }$ 
-- - Quick Ratio = $\frac{cash + short-term marketable securities + receivables}{current \ liabilities}$) 
+- Quick Ratio = $\frac{cash + short-term marketable securities + receivables}{current \ liabilities}$) 
 - Current Ratio = $\frac{current \ assets}{current \ liabilities}$
 
 ### Solvency Ratios(长期负债偿还能力)

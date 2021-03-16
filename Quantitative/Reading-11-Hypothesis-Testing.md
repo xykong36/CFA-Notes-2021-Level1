@@ -25,7 +25,7 @@
 * alternative hypothesis($H_a$): 
 * significance level: 可以理解成人为设定的对于不确定性范围的定性, 表示出现的误差小于多少区间的时候就拒绝null hypothesis
 * confidence level
-* power of a test
+* power of a test: correctly reject a false null hypothesis
 * critical value 
 * single-tailed test
 * two-tailed test
@@ -45,6 +45,9 @@
     * Select a level of significance
     * Formulate a decision rule
     * Take a sample arrive at decision  
+
+Test statistic= 
+Sample statistic−Value of the population parameter under $H_0$ / Standard error of the sample statistic
 
 
 $\bar{X} - \mu$ 标准化 可以通过查表来做 
@@ -108,3 +111,5 @@ Non-parametric test:
 
 
 ### 课后练习
+* The power of a test is the probability of rejecting the null hypothesis when it is false
+* The smaller the p-value, the stronger the evidence is against the null hypothesis and in favor of the alternative hypothesis

@@ -15,8 +15,10 @@
 
 ## 基础概念/词汇
 * Securitization: 将整个的loan打包了
-* 
-
+* recourse loan: 有追索其他财产的权利
+* non-recourse loan: 没有追索权
+* strategic default: 房子的价值小于贷款 
+* conforming mortgage: a loan satisfies the underwriting standard 
 
 ## Notes
 

@@ -4,10 +4,12 @@
     * a probability distribution and distinguish between discrete and continuous random variables and their probability functions
     * Bernoulli, binomial, uniform, normal distribution
     * shortfall risk, calculate the safety-first ratio, select an optimal portfolio using Roy's safety-first criterion
+
 * **Calculate/Construct**
     * a binomial tree to describe stock price movement
     * probabilities for a random variable, given its cumulative distribution function, the discrete uniform and the binomial distribution functions
     * a continuously compounded rate of return, given a specific holding period return
+
 * **Describe/Explain/Interpret/Distinguish** 
     * the set of possible outcomes of a specified discrete random variable
     * cumulative distribution function

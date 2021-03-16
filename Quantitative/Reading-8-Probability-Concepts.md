@@ -40,7 +40,6 @@
 
 Permutation formula: N个里面挑出来K个，需要考虑顺序 排列 $A_N^k$
 Multinomial formula: 多项分布的拆分公式 $(a + b)^n$
-![60a047c58e7f3ac7b81cc8657bc905aa.png](evernotecid://1FC78D12-88FB-4FAC-95A1-F7FB5953B0DF/appyinxiangcom/29211871/ENResource/p289)
 
 Combination formula: N个里面挑出来k个，不需要考虑顺序 组合 $C_N^k$
 
@@ -67,6 +66,13 @@ covariance positive: 同方向
 
 ### Baye's Formula
 
-事件A的
-先验概率: P(A)
+事件A的先验概率: P(A)
 后验概率: P(A|B) = P(B|A) * P(A) / P(B)
+
+
+## 课后练习
+* Q15: positive covariance -> co-movement -> returns on two assets tend to be on the same side of their expected value at the same time
+* Q16: 考虑线性关系时根据绝对值来作比较 -1是线性负相关,+1是线性正相关，但是-0.67的线性相关性是大于-0.24的
+* Q20: 就散variance的时候需要考虑到权重
+* Q22: 先根据joint distribution 计算E(X)=$X_1*Joint(X_1,Y_1) + X_2*Joint(X_2,Y_2)$ E(Y), 在计算Cov(X, Y) = $Joint(X_1, Y_1)*(X_1 - E(X))*(Y_1 - E(Y)) + Joint(X_2, Y_2)*(X_2 - E(X))*(Y_2-E(Y))$
+* Q25: 题目中提到了rank所以是有顺序，需要用排列 Permutation

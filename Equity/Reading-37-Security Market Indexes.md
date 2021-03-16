@@ -20,8 +20,10 @@
    * treasure shares: 库存股 公司回购的还没有注销的股票
    * issued shares: 已发行股份 = outstanding shares + treasure shares 
    * listed shares == shares available to the investing public: 可以在市场上流通公开交易的部分
-* [value tilt](https://www.bogleheads.org/wiki/Value_tilting_-_stock): 向价值股倾斜 
+* [value tilt](https://www.bogleheads.org/wiki/Value_tilting_-_stock): 向价值股倾斜 使用fundamental weighting过程中容易出现
+* contrarian effect: 反向投资 使用fundamental weighting过程中容易出现
 * appraisal: 房产估价
+
 ## Note
 
 ### Index Definition and calculations of value and returns

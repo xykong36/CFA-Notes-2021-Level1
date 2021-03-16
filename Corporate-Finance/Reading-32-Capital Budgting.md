@@ -23,7 +23,7 @@
   * timing of cash flows 大额
   * after tax basis
   * include: externality + opportunity
-  * ignored: sunk cost + financing cost(在WACC中考虑 不在计算现金流时考虑)
+  * ignored: sunk cost(已经付出的成本,和选择投资这个项目本身是没关系的) + financing cost(在WACC中考虑 不在计算现金流时考虑)
   
 #### Project Evaluation Methods
 * Net Present Value(NPV)

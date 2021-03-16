@@ -11,10 +11,6 @@
   * steps in financial statement analysis framework
   * simple random sampling and a sampling distribution
   
-* **Calculate/Construct**
-    * confidence interval for a population mean, given a normal distribution with known population variance/unknown population variance/unknown population variance + large sample size
-    * the standard error of the sample mean
-
 ## Notes 
 
 ### Financial Reports

@@ -56,7 +56,6 @@ Indirect Method 三步走: NI(净利润) 经过三步调整变为CFO  从净利�
 负债对于现金流是 增加
 
 
-![e250693852385bb48caa1f214d415eb6.png](evernotecid://1FC78D12-88FB-4FAC-95A1-F7FB5953B0DF/appyinxiangcom/29211871/ENResource/p306)
 收到的钱: Net sale + A/R 讨债要回来的钱(A/R 减少的就是讨债讨回来的)
 付给供应商的: purchase + 
 
@@ -134,11 +133,9 @@ indirect method: 从net income 来转换
 * 做账 准备起来更简单
 
 
-Cash Received = Net sales - $\Delta$ Account Receivable  A/R 增加表示有人赊账，需要从Net sales里面减掉
+Cash Received = Net sales - $\Delta$ Account Receivable  A/R 增加表示有人赊账没有真的收到现金，需要从Net sales里面减掉 
 
 Purchase = COGS + $\Delta$ Account Payable A/P增加表示我们赊账，需要加上
-
-
 
 Common-Size Analysis 是以Net Revenue作分母来计算的
 
