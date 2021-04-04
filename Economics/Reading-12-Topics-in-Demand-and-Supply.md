@@ -37,7 +37,7 @@ A是demand function中的对应项的斜率(the slope of a demand function).
 
 $\frac{\Delta Q}{\Delta P}$
 
-
+公式：
 $Q = aP + b$
 
 demand curve is the **inverse** of the demand function.主义取倒数，需求曲线里面纵轴是价格P,横轴是数量Q
