@@ -78,6 +78,8 @@ long run:
     * Average Revenue(AR): ΔTR/Q 
     * Marginal Revenue: ΔTR/ΔQ
 
+* Marginal Revenue
+   * MR = P * (1 - 1/Ep)
 
 Q: 如何理解边际效应?
 e.g. 餐馆擦桌子 1个人擦 2个人擦 3个人擦 ... 100 个人擦 最后100个人擦的时候的MR(Marginal Revenue)很小而MC(Marginal Cost)很高。边际的概念就是一个变量的改变引起的另一个变量的变化, 是两个量的相对关系。
